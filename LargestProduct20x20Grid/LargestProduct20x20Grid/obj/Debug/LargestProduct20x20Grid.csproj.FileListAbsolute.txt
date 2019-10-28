@@ -1,0 +1,8 @@
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\LargestProduct20x20Grid\LargestProduct20x20Grid\bin\Debug\LargestProduct20x20Grid.exe.config
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\LargestProduct20x20Grid\LargestProduct20x20Grid\bin\Debug\LargestProduct20x20Grid.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\LargestProduct20x20Grid\LargestProduct20x20Grid\bin\Debug\LargestProduct20x20Grid.pdb
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\LargestProduct20x20Grid\LargestProduct20x20Grid\obj\Debug\LargestProduct20x20Grid.csprojAssemblyReference.cache
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\LargestProduct20x20Grid\LargestProduct20x20Grid\obj\Debug\LargestProduct20x20Grid.csproj.CoreCompileInputs.cache
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\LargestProduct20x20Grid\LargestProduct20x20Grid\obj\Debug\LargestProduct20x20Grid.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\LargestProduct20x20Grid\LargestProduct20x20Grid\obj\Debug\LargestProduct20x20Grid.pdb
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\LargestProduct20x20Grid\LargestProduct20x20Grid\bin\Debug\20x20.txt
